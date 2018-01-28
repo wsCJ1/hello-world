@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+I really don't know what I'm doing.I love football!
